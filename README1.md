@@ -1,7 +1,6 @@
 # GUSSEING GAME 
-n=wc -l guessinggame.sh
 
-echo " TOTAL LINE IN FILE : $n"
+echo " TOTAL 17 LINES IN THE FILE"
 
  
 
